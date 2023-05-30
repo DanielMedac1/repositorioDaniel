@@ -5,7 +5,7 @@
 package modelo;
 
 /**
- *
+ * La clase libro está formada por los parámetros de título, autor, publicación y precio.
  * @author usuario
  */
 public class Libro {
